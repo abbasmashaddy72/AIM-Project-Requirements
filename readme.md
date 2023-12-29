@@ -244,9 +244,7 @@
 - Donation Processing
 - Recurring Donations
 - Donor Management
-- Internal Transparency (If Required will also have an option to hide Name of Don
-
-ar For Internal Members)
+- Internal Transparency (If Required will also have an option to hide Name of Donar For Internal Members)
 
 ### 18. Support Ticketing
 
